@@ -13,8 +13,7 @@ To join the group, please visit [the Meetup Page](https://www.meetup.com/CppMary
 
 Topics:
 * Good API design
-* Concepts in C++20
-
+* [Concepts in C++20](https://github.com/CppMaryland/presentations/blob/master/2020-01-08%20Eric%20Richardson%20-%20Concepts%20in%20C++20.pdf)
 
 ## Sponsoring
 
